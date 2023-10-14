@@ -21,7 +21,6 @@
                     @foreach ($category as $iv)
                         <li><a class="categories" data-filter=".buku">{{ $iv->nama_category }}</a></li>
                     @endforeach
-                   
                 </ul>
             </div><!-- End portfolio  -->
         </div>
@@ -68,7 +67,6 @@
                     </td>
                 </tr>
             @endforeach
-
         </tbody>
     </table>
 

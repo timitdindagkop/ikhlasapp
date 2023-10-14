@@ -69,9 +69,7 @@
             @endforeach
         </tbody>
     </table>
-
     <div class="col-md-6 col-lg-3">
-
 
         <!-- sample modal content -->
         <div class="modal fade modaleditdata" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel"

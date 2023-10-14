@@ -93,8 +93,6 @@ class SalesController extends Controller
                 'errors' => "Data tidak ditemukan"
             ]);
         }
-        
-
     }
 
     public function ambilbarang($id){

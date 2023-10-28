@@ -7,13 +7,6 @@
             <ul class="navigation-menu list-unstyled d-flex justify-content-center">
 
                 <li class="has-submenu">
-                    <a href="/sd">
-                        <i class="mdi mdi-monitor"></i>
-                        Dashboard
-                    </a>
-                </li>
-
-                <li class="has-submenu">
                     <a href="/sales">
                         <i class="mdi mdi-table-large"></i>
                         Order Barang

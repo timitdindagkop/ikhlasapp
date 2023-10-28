@@ -29,7 +29,7 @@
 
             <!-- LOGO -->
             <div class="topbar-left">
-                <a href="index.html" class="logo">
+                <a href="/sales" class="logo">
                     <span>
                         <img src="/assets/images/fixlogo.png" alt="logo-small" class="logo-sm">
                     </span>
